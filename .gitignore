@@ -18,3 +18,4 @@ local.properties
 /build-logic/convention/build/
 /build-logic/convention/build/classes/kotlin/main/
 /feature/onboarding/ui/build/
+/app/google-services.json
