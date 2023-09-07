@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "296465030163",
+    "project_id": "whatsclean-e7239",
+    "storage_bucket": "whatsclean-e7239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296465030163:android:91a5e3e7d93cf5ffbc73e6",
+        "android_client_info": {
+          "package_name": "com.sachin.app.easyride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296465030163-iqpcdkdp5ph9750444agkectqcivkpb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sachin.app.easyride",
+            "certificate_hash": "4c6bb10641de800934813644bdeb258a89f38d46"
+          }
+        },
+        {
+          "client_id": "296465030163-4tcb4vud70vm4r1ui311rrgqoqm7acbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuIQBiA-E-T-LeVMyhUEXBnIwauR0MLLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296465030163-4tcb4vud70vm4r1ui311rrgqoqm7acbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296465030163:android:bb96f0749865878ebc73e6",
+        "android_client_info": {
+          "package_name": "com.sachin.app.qrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296465030163-4tcb4vud70vm4r1ui311rrgqoqm7acbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuIQBiA-E-T-LeVMyhUEXBnIwauR0MLLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296465030163-4tcb4vud70vm4r1ui311rrgqoqm7acbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296465030163:android:c69ba48599282e8dbc73e6",
+        "android_client_info": {
+          "package_name": "com.sachin.app.whatsclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296465030163-7k30ho31ds73gif3t39koq9cjjigr307.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sachin.app.whatsclean",
+            "certificate_hash": "a1ce4e9880962b8822b70be85bc31f106e1e8336"
+          }
+        },
+        {
+          "client_id": "296465030163-4tcb4vud70vm4r1ui311rrgqoqm7acbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuIQBiA-E-T-LeVMyhUEXBnIwauR0MLLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296465030163-4tcb4vud70vm4r1ui311rrgqoqm7acbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
